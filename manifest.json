@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "allenai",
+  "repo": "peS2o",
+  "versions": [
+    {
+      "commit": "cc4800ffd798bb9baa29552059b294073cf91e90",
+      "parsed_at": "2026-11-07T18:28:21.224561+00:00",
+      "filetree": "filetree/cc4800ffd798bb9baa29552059b294073cf91e90.nq.gz",
+      "blobs": [
+        "blob/433040315a6fe500e88fb90a62b7db0d072307d3.nq.gz",
+        "blob/df02f4af3bf2314f17ecdca5a6d55a0e1f23b027.nq.gz",
+        "blob/9f3a01d66234079981c43b95007696184ba9a246.nq.gz",
+        "blob/8ec268eef41047412d4a504bb2e72dfc699c0595.nq.gz",
+        "blob/07f002ecaeb4c8e9d4d57a5580dd47ba4e8579ff.nq.gz",
+        "blob/0771666e4723262f6052350c85ab95dfefee18f7.nq.gz",
+        "blob/3136f3179cba8149f4ad3fbb31c460cab09c2a62.nq.gz",
+        "blob/5a63956fb77cb677d876de92b9698c74cf568950.nq.gz",
+        "blob/a1b8dfbe8f333749689b1c01d4a6bb9baf37f557.nq.gz",
+        "blob/5742569104c0bea935423a41c7e99372d1d98ab1.nq.gz",
+        "blob/896d5e47a54d6361e8914522b0afa80bc2df7246.nq.gz",
+        "blob/13239b4b59dcf900879f37a0779c01254490d05b.nq.gz",
+        "blob/faf814be727ae608d833633be4c1aad3ad14ef52.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/88d3cf93c274e94ddcb908f56a140318d95bc2bd.nq.gz",
+        "blob/1b19957b097444bc89a84d66157aeaaa1c998579.nq.gz",
+        "blob/a0f17a5592a1e1a37668d3406170a4dff86cc617.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
