@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/peS2o/commit/cc4800ffd798bb9baa29552059b294073cf91e90",
       "git:hexsha": "cc4800ffd798bb9baa29552059b294073cf91e90",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
